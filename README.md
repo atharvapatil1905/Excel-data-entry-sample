@@ -39,3 +39,8 @@ The dataset includes the following fields:
 
 ## Disclaimer
 All company details, contact information, and links included in this dataset are collected from publicly available sources and are used strictly for demonstration and portfolio purposes only. This dataset does not represent client work.
+
+## Portfolio Sample (PDF)
+A visual portfolio sample explaining the dataset, data cleaning steps, and final structure is included as a PDF file. This document provides a clear overview of the work demonstrated in this repository.
+
+
